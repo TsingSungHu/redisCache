@@ -1,0 +1,6 @@
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml
+bloom:
+    filter:
+      expectedInsertions: 1000
+      fpp: 0.001F
